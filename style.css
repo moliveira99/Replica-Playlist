@@ -1,0 +1,22 @@
+body {
+    background: #0d0e0f;
+    font-family: -apple-system-body, -apple-system, BlinkMacSystemFont, 'SF Pro Text', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vw;
+}
+
+table, p, h1 {
+    color: #ffffff;
+}
+
+p {
+    font-weight: thin;
+    margin-bottom: 1rem;
+}
+
+h1 {
+    font-weight: bold;
+    margin-bottom: 4rem;
+}
